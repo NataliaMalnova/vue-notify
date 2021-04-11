@@ -1,6 +1,6 @@
 # VUE список фильмов с подгрузкой по API
 
-[Demo](http://natalia-malnova.ru/vue-notify/)
+[Demo](http://natalia-malnova.ru/work/vue-notify/)
 
 
 ## Технологии
